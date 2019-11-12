@@ -1,4 +1,4 @@
-# Deploy Google Cloud Virtual Machines in a private only single region with Terraform
+# Deploying GCP VMs in unmanaged instance group with a load balancer using Terraform
 
 The script will install Apache web server on the virtual machines for testing purposes.
 
